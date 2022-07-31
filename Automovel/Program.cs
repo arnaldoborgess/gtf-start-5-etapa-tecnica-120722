@@ -3,8 +3,6 @@ using Automovel.Models;
 
 internal class Program
 {
-    private const string V = "Caminhao";
-
     private static void Main(string[] args)
     {
         Caminhao caminhao = new Caminhao();
@@ -24,8 +22,6 @@ internal class Program
         {
             esportivo.Apresentar();
         }
-
-
 
     }
 }
