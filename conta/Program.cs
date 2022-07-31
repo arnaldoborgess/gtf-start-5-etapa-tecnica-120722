@@ -1,7 +1,20 @@
-﻿internal class Program
+﻿namespace conta.Models
 {
-    private static void Main(string[] args)
+    internal class Program
     {
-        var conta = new Conta();
+        static void Main(string[] args)
+        {
+            ContaCorrente corrente = new ContaCorrente();
+            corrente.Rendimentos(50);
+
+            corrente.ExibirRendimentos();
+
+            ContaPoupanca poupanca = new ContaPoupanca();
+            poupanca.Rendimentos(500);
+
+            poupanca.ExibirRendimentos();
+
+        }
     }
+
 }

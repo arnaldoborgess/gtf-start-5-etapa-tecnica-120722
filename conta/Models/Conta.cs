@@ -1,14 +1,19 @@
 using static System.Console;
 
-namespace Conta
+namespace conta.Models
 {
     public abstract class Conta
     {
-        public int Rendimento { get; set; }
+        protected int numero { get; set; }
+        protected string titular { get; set; }
+        protected double saldo { get; set; }
 
-        public void Valor()
+        public abstract void Rendimentos(double valor);
+        
+        public virtual void ExibirRendimentos()
         {
-            WriteLine($"Seu saldo é R${Valor} Reais.");
+            System.Console.WriteLine($"Seu Rendimento na conta corrente é de: R$ {saldo} reais.");
         }
+
     }
 }

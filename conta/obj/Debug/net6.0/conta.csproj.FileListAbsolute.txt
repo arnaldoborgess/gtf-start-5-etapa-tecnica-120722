@@ -1,0 +1,15 @@
+C:\DEV\gtf-start-5-etapa-tecnica-120722\conta\bin\Debug\net6.0\conta.exe
+C:\DEV\gtf-start-5-etapa-tecnica-120722\conta\bin\Debug\net6.0\conta.deps.json
+C:\DEV\gtf-start-5-etapa-tecnica-120722\conta\bin\Debug\net6.0\conta.runtimeconfig.json
+C:\DEV\gtf-start-5-etapa-tecnica-120722\conta\bin\Debug\net6.0\conta.dll
+C:\DEV\gtf-start-5-etapa-tecnica-120722\conta\bin\Debug\net6.0\conta.pdb
+C:\DEV\gtf-start-5-etapa-tecnica-120722\conta\obj\Debug\net6.0\conta.csproj.AssemblyReference.cache
+C:\DEV\gtf-start-5-etapa-tecnica-120722\conta\obj\Debug\net6.0\conta.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\gtf-start-5-etapa-tecnica-120722\conta\obj\Debug\net6.0\conta.AssemblyInfoInputs.cache
+C:\DEV\gtf-start-5-etapa-tecnica-120722\conta\obj\Debug\net6.0\conta.AssemblyInfo.cs
+C:\DEV\gtf-start-5-etapa-tecnica-120722\conta\obj\Debug\net6.0\conta.csproj.CoreCompileInputs.cache
+C:\DEV\gtf-start-5-etapa-tecnica-120722\conta\obj\Debug\net6.0\conta.dll
+C:\DEV\gtf-start-5-etapa-tecnica-120722\conta\obj\Debug\net6.0\refint\conta.dll
+C:\DEV\gtf-start-5-etapa-tecnica-120722\conta\obj\Debug\net6.0\conta.pdb
+C:\DEV\gtf-start-5-etapa-tecnica-120722\conta\obj\Debug\net6.0\conta.genruntimeconfig.cache
+C:\DEV\gtf-start-5-etapa-tecnica-120722\conta\obj\Debug\net6.0\ref\conta.dll
