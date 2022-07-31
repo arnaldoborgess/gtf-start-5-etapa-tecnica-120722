@@ -1,0 +1,33 @@
+1. Utilizando laços de repetição crie uma aplicação que receba a idade e o peso de 10
+pessoas. Calcule e mostre as médias dos pesos das pessoas da mesma faixa etária.
+As faixas etárias são: de 1 a 10 anos, de 11 a 20 anos, de 21 a 30 anos e maiores de
+31 anos.(Vale 2 pontos)
+
+
+2. Considerando os conceitos de Orientação a Objetos, crie uma classe abstrata Pai de
+nome Conta com os seguintes atributos (número, titular e saldo) e mais duas classes
+Filhas (ContaCorrente e ContaPoupanca).
+
+Na classe Conta deve existir um método
+de nome rendimento que retorna o rendimento mensal da conta, nas classes filhas
+deve existir o mesmo método rendimento, porém com as seguintes regras:
+
+⦁ Para ContaCorrente, o método rendimento deve retornar o saldo * 0.03;
+⦁ Para ContaPoupanca, o método rendimento deve retornar o saldo * 0.05;
+
+Por fim, criar uma classe principal que instancie objetos de ContaCorrente e
+ContaPoupanca, adicione no mínimo um valor para cada atributo e imprima cada
+conta (ContaCorrente e ContaPoupanca) com seus devidos rendimentos.
+
+Obs: Encapsular atributos das classes.(vale 3 pontos)
+
+
+3. Faça um programa que contenha a classe automóvel com um atributo combustível e
+duas classes que herdam desta Esportivo e Caminhão e um programa que receba um
+Esportivo ou um caminhão e retorne o combustível correspondente, a saber: Esportivo
+utiliza Gasolina e Caminhão utiliza Diesel. (vale 3 pontos)
+
+
+4. A idade permitida para doar sangue é entre 18 e 67 anos. Faça um aplicativo que
+pergunte a idade de uma pessoa e diga se ela pode doar sangue ou não. Use alguns
+dos operadores lógicos OU (||) e E (&&). (vale 2 pontos).

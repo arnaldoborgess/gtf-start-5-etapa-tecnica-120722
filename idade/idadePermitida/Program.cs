@@ -9,18 +9,18 @@ internal class Program
         Console.WriteLine("Digite sua idade:"); 
         p.Idade = Convert.ToInt32(Console.ReadLine());
 
-        Console.WriteLine("Digite seu Nome"); 
+        Console.WriteLine("Digite seu nome:"); 
         p.Nome = Console.ReadLine();
 
         p.Apresentar();
 
-        if (p.Idade > 18 || p.Idade >= 67)
+        if (p.Idade => 18 || p.Idade >= 67)
         {
-            Console.WriteLine($"Você Pode votar {p.Nome}.");
+            Console.WriteLine($"Você pode doar sangue {p.Nome}.");
         }
         else
         {
-            Console.WriteLine($"Você não pode votar ainda, {p.Nome}.");
+            Console.WriteLine($"Que pena {p.Nome}, você ainda não tem idade para doar sangue.");
         }
     }
 }

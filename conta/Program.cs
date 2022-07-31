@@ -2,6 +2,6 @@
 {
     private static void Main(string[] args)
     {
-        Conta conta = new Conta();
+        var conta = new Conta();
     }
 }
